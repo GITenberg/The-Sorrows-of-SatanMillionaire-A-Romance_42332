@@ -1,0 +1,35 @@
+_repo: The-Sorrows-of-SatanMillionaire-A-Romance_42332
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42332-h/images/epubcover.jpg
+creator:
+  author:
+    agent_name: Corelli, Marie
+    aliases:
+    - Mackay, Mary
+    - Corelli, Maria
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '1321'
+    url: http://www.gutenberg.org/2009/agents/1321
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Corelli
+description: ''
+gutenberg_issued: '2013-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Religious fiction'
+- !lcsh 'Millionaires -- Fiction'
+- !lcsh 'Devil -- Fiction'
+- !lcsh 'Didactic fiction'
+title: "The Sorrows of Satan\r\nor, The Strange Experience of One Geoffrey Tempest,\
+  \ Millionaire: A Romance"
+url: http://www.gutenberg.org/ebooks/42332
